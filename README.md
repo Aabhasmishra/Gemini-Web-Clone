@@ -1,6 +1,6 @@
-# Gemini AI Chat Clone
+# Gemini Web Clone
 
-A responsive Gemini AI chat interface with theme switching, local chat history, and markdown support.
+A responsive web clone of Google's Gemini web with theme switching, local chat history, and markdown support.
 
 ## Features
 
